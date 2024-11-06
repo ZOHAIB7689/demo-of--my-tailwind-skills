@@ -1,4 +1,5 @@
-import image from "next/image"
+/*eslint-disable*/
+
 export default function Home() {
 
 
@@ -8,7 +9,7 @@ export default function Home() {
                 <div className=""><img className="  w-full md:w-auto mr-2 rounded-lg" src="01.jpg" alt="" /></div>
                 <div className="">
                     <h1 className="text-2xl my-3 font-semibold  text-white ">Robotics</h1>
-                    <p className="font-bold text-slate-400">AI powers robots to perform tasks autonomously and interact with their environment.</p>
+                    <p className="font-bold text-slate-400">AI powers robots to perform tasks autonomously and interact with their environment.&apos;</p>
                 </div>
             </div>
             
@@ -16,7 +17,7 @@ export default function Home() {
                 <div className=""><img className="  w-full md:w-auto mr-2 rounded-lg" src="02.jpg" alt="" /></div>
                 <div className="">
                     <h1 className="text-2xl my-3 font-semibold  text-white ">Image Recognition</h1>
-                    <p className="font-bold text-slate-400"> AI can identify, classify, and process images with high accuracy.</p>
+                    <p className="font-bold text-slate-400"> AI can identify, classify, and process images with high accuracy.&apos;</p>
                 </div>
             </div>
             
@@ -24,7 +25,7 @@ export default function Home() {
                 <div className=""><img className="  w-full md:w-auto mr-2 rounded-lg" src="03.jpg" alt="" /></div>
                 <div className="">
                     <h1 className="text-2xl my-3 font-semibold  text-white ">Predictive Analytics</h1>
-                    <p className="font-bold text-slate-400">AI analyzes data patterns to predict future trends and outcomes effectively..</p>
+                    <p className="font-bold text-slate-400">AI analyzes data patterns to predict future trends and outcomes effectively.&apos;</p>
                 </div>
             </div>
             
@@ -32,7 +33,7 @@ export default function Home() {
                 <div className=""><img className="  w-full md:w-auto mr-2 rounded-lg" src="04.jpg" alt="" /></div>
                 <div className="">
                     <h1 className="text-2xl my-3 font-semibold  text-white ">Automation</h1>
-                    <p className="font-bold text-slate-400">AI automates repetitive tasks, increasing efficiency and reducing human error.</p>
+                    <p className="font-bold text-slate-400">AI automates repetitive tasks, increasing efficiency and reducing human error.&apos;</p>
                 </div>
             </div>
             
@@ -40,7 +41,7 @@ export default function Home() {
                 <div className=""><img className="  w-full md:w-auto mr-2 rounded-lg" src="05.jpg" alt="" /></div>
                 <div className="">
                     <h1 className="text-2xl my-3 font-semibold  text-white ">Decision Making</h1>
-                    <p className="font-bold text-slate-400">AI processes vast amounts of data to assist in making smart decisions.</p>
+                    <p className="font-bold text-slate-400">AI processes vast amounts of data to assist in making smart decisions.&apos;</p>
                 </div>
             </div>
             
@@ -48,7 +49,7 @@ export default function Home() {
                 <div className=""><img className="  w-full md:w-auto mr-2 rounded-lg" src="06.jpg" alt="" /></div>
                 <div className="">
                     <h1 className="text-2xl  font-semibold  text-white ">Speech Recognition</h1>
-                    <p className="font-bold text-slate-400">AI converts spoken language into text, enabling hands-free interactions</p>
+                    <p className="font-bold text-slate-400">AI converts spoken language into text, enabling hands-free interactions.&apos;</p>
                 </div>
             </div>
     </div>
